@@ -1,5 +1,5 @@
 /*
- Escribe un programa que pida un numero al usuario y por consola muestre todos sus divisores
+  pedir un numero por la entrada estandar y mostrar en pantalla sus divisores
 */
 
 #include<iostream>
